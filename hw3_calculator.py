@@ -11,4 +11,3 @@ class Calculator:
     def __truediv__(self, other):
         return self.a / self.b
 
-
